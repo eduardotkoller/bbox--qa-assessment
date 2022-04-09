@@ -5,7 +5,7 @@
 ## **Instruções**
 Você deve criar duas rotinas de teste simples, uma _**end-to-end**_ e um teste de integração. 
 
-_Obs. 1: Você pode construir estes testes com a(s) ferramenta(s) de sua preferência._
+_Obs. 1: Você pode construir estes testes com a(s) ferramenta(s) de sua preferência.(solicitamos na medida do possíel que utilize javascript)
 
 _Obs. 2: O tempo esperado para realização deste teste é de **20~40 minutos**._
 
